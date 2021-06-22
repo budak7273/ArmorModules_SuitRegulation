@@ -1,17 +1,30 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0",
+	"VersionName": "1.0.0",
+	"SemVersion": "1.0.0",
 	"FriendlyName": "ArmorModules_PassivePower",
 	"Description": "",
-	"Category": "Other",
-	"CreatedBy": "",
-	"CreatedByURL": "",
-	"DocsURL": "",
+	"Category": "Modding",
+	"CreatedBy": "Robb#6731, Nog",
+	"CreatedByURL": "https://ficsit.app/mod/BezrE8aswqXLRX",
+	"DocsURL": "https://github.com/budak7273/ArmorModules/",
 	"MarketplaceURL": "",
-	"SupportURL": "",
+	"SupportURL": "http://discord.gg/zqp6U7Y7Nu",
 	"CanContainContent": true,
 	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
-	"Installed": false
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "SML",
+			"SemVersion": "^3.0.0",
+			"Enabled": true
+		},
+		{
+			"Name": "ArmorModules",
+			"SemVersion": "^4.0.0",
+			"Enabled": true
+		}
+	]
 }
