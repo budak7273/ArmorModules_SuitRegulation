@@ -23,7 +23,7 @@
 		},
 		{
 			"Name": "ArmorModules",
-			"SemVersion": "^4.0.0",
+			"SemVersion": "^3.0.0",
 			"Enabled": true
 		}
 	]
